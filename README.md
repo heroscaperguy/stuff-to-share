@@ -8,6 +8,8 @@ Khanacademy https://www.khanacademy.org/ One of the best online learning program
 
 Duolingo https://www.duolingo.com/ One of the best language learning websites (and yes it even includes some fictional languages).
 
+Paperrater https://www.paperrater.com/free_paper_grader Copy/paste your paper into the textbox and it will critique it in various gramatical fields.  Good for getting a first (not final, just in case) look at a paper that you are writing.
+
 Life
 Avast passwords https://www.avast.com/passwords#pc Best free password manager, so that you don’t have just one password for everything which can cause numerous problems.
 
@@ -44,7 +46,7 @@ Vlc media player https://www.videolan.org/vlc/ Best media player available.
 Youtube-dl https://youtube-dl.org/ Program to download youtube/vimeo videoes
 
 
-Spotify
+Spotify  https://open.spotify.com/user/heroscaperguy/playlist/2sfjprQRVW7IbmGj8CgRyM?si=osdjgK6pSwau0iPo354sCw
 
 
 https://youtu.be/hHW1oY26kxQ The lo-fi hip hop 24-7 channel.  Perfect music to get stuff done to.
