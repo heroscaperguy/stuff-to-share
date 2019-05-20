@@ -27,7 +27,7 @@ Adblocker Ublock Origin https://chrome.google.com/webstore/detail/ublock-origin/
 Discord/google hangouts https://discordapp.com/ Discord is the best non-video call app, while google hangouts is the best video conference call.
 
 NordVPN https://nordvpn.com/special/brand/?utm_medium=affiliate&utm_term&utm_content&utm_campaign=off129&utm_source=aff614 My pick for the best VPN out there for privacy and security.  
-
+haveibeenpwned.com
 
 Duckduckgo https://duckduckgo.com/ duckduckgo is the best search engine for those who value their privacy as it doesn’t share it with others.  There is also an extension for chrome which replaces google.
 
