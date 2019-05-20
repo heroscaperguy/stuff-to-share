@@ -47,6 +47,7 @@ deezloaderremix
 snahp.it
 igg-games
 fitgirlrepacks
+jdownloader
 
 Vlc media player https://www.videolan.org/vlc/ Best media player available.
 
