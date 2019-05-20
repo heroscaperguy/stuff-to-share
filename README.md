@@ -9,6 +9,9 @@ Khanacademy https://www.khanacademy.org/ One of the best online learning program
 Duolingo https://www.duolingo.com/ One of the best language learning websites (and yes it even includes some fictional languages).
 
 Paperrater https://www.paperrater.com/free_paper_grader Copy/paste your paper into the textbox and it will critique it in various gramatical fields.  Good for getting a first (not final, just in case) look at a paper that you are writing.
+https://unpaywall.org
+researchgate.net
+academia.edu
 
 Life
 Avast passwords https://www.avast.com/passwords#pc Best free password manager, so that you don’t have just one password for everything which can cause numerous problems.
@@ -40,6 +43,10 @@ Ninite.com https://ninite.com/ Website that installs all the apps you want all a
 
 Plex Eventually going to put my plex server up here.
 
+deezloaderremix
+snahp.it
+igg-games
+fitgirlrepacks
 
 Vlc media player https://www.videolan.org/vlc/ Best media player available.
 
